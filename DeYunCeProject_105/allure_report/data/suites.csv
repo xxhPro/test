@@ -1,0 +1,17 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+    :param account: 账号
+    :param pwd: 密码
+    :param exp: 预期
+    :return: 返回值
+    ","0","test_deng_lu[13012312300-a123456-\u767b\u5f55\u5931\u8d25]","pytest学习","Sat Sep 19 17:47:33 CST 2026","passed","Sat Sep 19 17:47:33 CST 2026","","test_003_paramatrize参数化","",""
+"","0","test_login","pytest学习","Sat Sep 19 17:47:33 CST 2026","passed","Sat Sep 19 17:47:33 CST 2026","","test_001","",""
+"","2","test_login","pytest学习","Sat Sep 19 17:47:33 CST 2026","passed","Sat Sep 19 17:47:33 CST 2026","","test_002","",""
+"
+    :param account: 账号
+    :param pwd: 密码
+    :param exp: 预期
+    :return: 返回值
+    ","0","test_deng_lu[10086-a123456-\u767b\u5f55\u6210\u529f]","pytest学习","Sat Sep 19 17:47:33 CST 2026","passed","Sat Sep 19 17:47:33 CST 2026","","test_003_paramatrize参数化","",""
+"","376","test_register","pytest学习","Sat Sep 19 17:47:33 CST 2026","passed","Sat Sep 19 17:47:33 CST 2026","","test_004_注册接口","",""
+"","0","test_zhuce","pytest学习","Sat Sep 19 17:47:33 CST 2026","passed","Sat Sep 19 17:47:33 CST 2026","","test_001","",""
