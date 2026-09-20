@@ -11,7 +11,7 @@ headers = {
     "content-type": "application/json",
 }
 # 请求体
-json = {
+body = {
     "account": "13657985592",
     "password": "hqn789",
     "client": 5
@@ -22,7 +22,7 @@ json = {
 # requests.get(三大金刚)
 
 # 发送登录请求
-response = requests.post(url=url,headers=headers,json=json)  # 表单data参数  # get请求有params
+response = requests.post(url = url,headers = headers,json = body)  # 表单data参数  # get请求有params
 # print(response)   # <Response [200]>  这个太不详细了
 
 # 获取响应状态码
